@@ -1,5 +1,5 @@
 <?
-$DOCUMENT_ROOT=$_SERVER["DOCUMENT_ROOT"]."tracking_stats";
+$DOCUMENT_ROOT=$_SERVER["DOCUMENT_ROOT"]."/tracking_stats";
 $domain=$_SERVER['SERVER_NAME'];
 $config=array(
         "db"            => array (
